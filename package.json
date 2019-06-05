@@ -1,0 +1,26 @@
+{
+  "name": "whoismyvillain",
+  "version": "1.0.0",
+  "description": "Express/Node app for AWS Lambda/DynamoDB population of webpage content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jodoedjr/WhoIsMyVillain.git"
+  },
+  "author": "John Edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jodoedjr/WhoIsMyVillain/issues"
+  },
+  "homepage": "https://github.com/jodoedjr/WhoIsMyVillain#readme",
+  "dependencies": {
+    "aws-sdk": "^2.469.0",
+    "express": "^4.17.1",
+    "promise": "^8.0.3",
+    "serverless-http": "^2.0.2"
+  },
+  "devDependencies": {}
+}
