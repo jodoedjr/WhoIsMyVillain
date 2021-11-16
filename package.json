@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jodoedjr/WhoIsMyVillain#readme",
   "dependencies": {
-    "aws-sdk": "^2.469.0",
+    "aws-sdk": "^2.814.0",
     "express": "^4.17.1",
     "promise": "^8.0.3",
     "serverless-http": "^2.0.2"
